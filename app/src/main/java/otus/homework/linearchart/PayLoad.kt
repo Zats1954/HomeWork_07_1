@@ -1,4 +1,4 @@
-package otus.homework.customview
+package otus.homework.linearchart
 
 import android.os.Parcelable
 import kotlinx.parcelize.Parcelize

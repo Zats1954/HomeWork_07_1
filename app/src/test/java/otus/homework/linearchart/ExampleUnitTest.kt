@@ -1,4 +1,4 @@
-package otus.homework.customview
+package otus.homework.linearchart
 
 import org.junit.Test
 
